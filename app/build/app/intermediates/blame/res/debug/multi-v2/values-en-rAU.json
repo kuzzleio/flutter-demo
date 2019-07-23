@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/arbona/work/kuzzle/flutter-demo/app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/arbona/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/f9a98290ee54dd7293d13c1275e4f5aa/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml:3:22-76
+uses-sdk
+INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+		ADDED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/arbona/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/android/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Jul 22 12:03:00 CEST 2019
+base.0=/home/arbona/work/kuzzle/flutter-demo/app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

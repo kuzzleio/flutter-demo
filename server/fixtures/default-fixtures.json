@@ -1,0 +1,36 @@
+{
+  "world": {
+    "entities": [
+      { "index": { "_id": "javascript" }},
+      {
+        "name": "JavaScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png",
+        "description": "JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions."
+      },
+      { "index": { "_id": "c" }},
+      {
+        "name": "C",
+        "image": "https://png.icons8.com/color/1600/c-programming",
+        "description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations."
+      },
+      { "index": { "_id": "cpp" }},
+      {
+        "name": "C++",
+        "image": "https://is2.4chan.org/g/1562645051087.png",
+        "description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'. The language has expanded significantly over time, and modern C++ has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation."
+      },
+      { "index": { "_id": "haskell" }},
+      {
+        "name": "Haskell",
+        "image": "https://cdn.freebiesupply.com/logos/large/2x/haskell-logo-png-transparent.png",
+        "description": "Haskell is a statically typed, purely functional programming language with type inference and lazy evaluation. Type classes, which enable type-safe operator overloading, originated in Haskell."
+      },
+      { "index": { "_id": "java" }},
+      {
+        "name": "Java",
+        "image": "https://www.stickpng.com/assets/images/58480979cef1014c0b5e4901.png",
+        "description": "Java is a general-purpose programming language that is class-based, object-oriented (although not a pure OO language, as it contains primitive types), and designed to have as few implementation dependencies as possible."
+      }
+    ]
+  }
+}

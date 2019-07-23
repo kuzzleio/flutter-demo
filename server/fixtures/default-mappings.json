@@ -1,0 +1,29 @@
+{
+  "world": {
+    "entities": {
+      "dynamic": "strict",
+      "properties": {
+        "name": {
+          "type": "keyword"
+        },
+        "description": {
+          "type": "text"
+        },
+        "image": {
+          "type": "text"
+        }
+      }
+    },
+    "collectable": {
+      "dynamic": "strict",
+      "properties": {
+        "location": {
+          "type": "geo_point"
+        },
+        "entity": {
+          "type": "keyword"
+        }
+      }
+    }
+  }
+}
