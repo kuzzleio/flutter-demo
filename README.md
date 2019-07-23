@@ -2,7 +2,7 @@
 
 Kuzzle Go is a project made with Kuzzle and Flutter to demonstrate the use of both technologies at the same time.
 
-This project is a go-like application (like *Pokemon Go* or *Harry Potter Wizards Unite*) where you have to catch some programming language.
+This project is a go-like application (like *Pokemon Go* or *Harry Potter Wizards Unite*) where you have to catch some programming languages.
 
 ![Demo](screens/demo.png)
 
